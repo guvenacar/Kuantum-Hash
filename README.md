@@ -17,7 +17,7 @@ Proje şu anda başlangıç aşamasındadır ve ana tohum (seed) değerlerinin �
 - Kuantum sonrası kriptografi için yeni yaklaşımların geliştirilmesi  
 
 ## Örnek Çalışmalar
-- **Kuantum Tünelleme Hash**  
+- **Kuantum Tünelleme Hash (QTHash)**  
   - [Kod (quantum_tunneling_hash.py)](model/quantum_tunnelling/quantum_tunneling_hash.py)  
   - [Açıklama (aciklama.md)](model/quantum_tunnelling/aciklama.md)  
   - (NIST testlerinde %97 başarı)

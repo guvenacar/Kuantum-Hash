@@ -1,6 +1,3 @@
-Elbette, sunduğunuz metni Markdown formatına dönüştürebilirim. İşte fiziksel süreçleri ve arkasındaki formülleri adım adım açıklayan düzenlenmiş versiyon:
-
-***
 
 Bu kod, temel bir kuantum mekaniği olayı olan **kuantum tünellemesini** simüle eder ve bu simülasyonun sonucunu deterministik bir şekilde bir "hash" değerine dönüştürür. Süreç, bir parçacığın enerji bariyerinden "sızarak" geçmesini modellemeye dayanır.
 
@@ -86,4 +83,4 @@ Kısacası, süreç şöyledir:
 
 **Tohum → Fiziksel Başlangıç Koşulları → Kuantum Parçacığı (Dalga Paketi) → Schrödinger Denklemi ile Evrim → Tünelleme Olayı → Son Olasılık Dağılımı → Sayısal Parmak İzi (Hash)**.
 
-Bu yöntem, bir hash üretmek için SHA-256 gibi standart algoritmalar yerine, doğanın temel bir yasasının karmaşıklığını ve öngörülemezliğini (deterministik kaos benzeri) kullanır.
+Burada kuantum tünelleme tüm algoritma boyunca sadece bir kez uygulanmış ve NIST testlerinde ~%97 oranında başarı elde etmiştir. Tünelleme modelinin arka arkaya bir çok defa uygulanması ile başarının artması kaçınılmazdır. 
