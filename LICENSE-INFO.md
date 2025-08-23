@@ -1,12 +1,21 @@
 # Lisans Bilgisi
 
-Bu yazılım iki farklı lisans altında sunulmaktadır:
+Bu yazılım, çift lisans modeli ile sunulmaktadır:
 
-1. **Apache License 2.0**:  
-   Bu yazılım, kişisel ve akademik kullanım için Apache 2.0 lisansı altındadır. Lisansın tam metni `LICENSE` dosyasında mevcuttur.
+## GPL-3.0 Lisansı
+Bu yazılım, **GNU Genel Kamu Lisansı, sürüm 3 (GPL-3.0)** kapsamında lisanslanmıştır.  
+Kişisel, akademik ve açık kaynak kullanım için geçerlidir.
 
-2. **Ticari Lisans**:  
-   Bu yazılımın ticari amaçlarla (şirketler, devlet kurumları veya ticari bir ürünün parçası olarak) kullanılması için özel bir ticari lisans alınması gerekmektedir.
-   Ticari lisans almak veya daha fazla bilgi için lütfen guvenacar@gmail.com ile iletişime geçin.
+Tam lisans metni şurada mevcuttur:  
+[LICENSE (GPL-3.0 tam metin)](https://github.com/guvenacar/Quantum-Hash/blob/main/LICENSE)
 
-Telif Hakkı (c) 2025 Güven Acar
+## Ticari Lisans
+**Ticari kullanım** için (şirketler, devlet kurumları veya kapalı/proprietary ürünlerde kullanım),  
+ayrı bir **ticari lisans** gerekmektedir.
+
+Ticari lisans almak veya daha fazla bilgi için lütfen iletişime geçin:  
+**guvenacar@gmail.com**
+
+---
+
+© 2025 **Güven Acar**
