@@ -1,4 +1,4 @@
-# NIST Test Sonuçları Raporu
+# NIST Test Sonuçları Raporu (chatGPT)
 # QTHash vs SHA-512
 
 Bu rapor, SHA-256 hash çıktılarından elde edilen bit dizileri üzerinde yapılan **NIST SP 800-22** testlerinin sonuçlarını içermektedir.
