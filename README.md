@@ -22,6 +22,7 @@ Proje şu anda başlangıç aşamasındadır ve ana tohum (seed) değerlerinin �
   - [Açıklama (aciklama.md)](model/quantum_tunnelling/aciklama.md)  
   - (NIST testlerinde %97 başarı)
 
-- **Labirent Hash** *(Hazırlanıyor)*  
+- [**Spin-Kuantum-Hash**](https://github.com/guvenacar/Spin-Kuantum-Hash) 
+  
 
 - **Kuaterniyon Tensör Hash** *(Hazırlanıyor)*  
